@@ -1,6 +1,6 @@
 # Frontend exclusions
-frontend/node_modules/
-frontend/dist/
-frontend/.env
-frontend/.venv/
-frontend/env/
+node_modules/
+dist/
+.env
+.venv/
+env/
