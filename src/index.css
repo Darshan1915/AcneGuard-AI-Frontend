@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 body {
-    @apply bg-slate-50 text-slate-900 antialiased;
+    @apply antialiased bg-slate-50 text-slate-900;
 }
 
 /* Custom Utilities if needed */
 .glass-panel {
-    @apply bg-white/80 backdrop-blur-md border border-slate-200 shadow-sm;
+    @apply border shadow-sm bg-white/80 backdrop-blur-md border-slate-200;
 }
